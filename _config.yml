@@ -1,0 +1,29 @@
+name: illHouseDesign
+favicon: null
+layout_spectrum: 0.5736039441544563
+typography_spectrum: 0.14211529633030295
+title: illHouse Design
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.31281922548078
+  lightness: 0.9164275247603655
+  saturation: 0.0007845608051866293
+  rhythmicContrast: 0.2830471945926547
+purpose: []
